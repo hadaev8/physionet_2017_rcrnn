@@ -1,5 +1,3 @@
-# Solving physionet2017 with RCRNN 
-
 # About
 This is sollution for solving Physionet 2017 Challenge by Residual Convolution Recurrent Neural Network with 0.86 accuracy and 0.83 F1 score.
 
